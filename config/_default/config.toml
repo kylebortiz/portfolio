@@ -1,4 +1,4 @@
-baseURL = "http://www.c-moor.org/cmoor_website_template/"
+baseURL = "https://kylebortiz.github.io/portfolio/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "C-MOOR Student"
