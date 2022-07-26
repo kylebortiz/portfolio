@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My blog</title>
+    <link>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/</link>
+    <description>Recent content in Tags on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 13 Mar 2021 21:47:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>demo</title>
+      <link>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/demo/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcode</title>
+      <link>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/shortcode/</link>
+      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      
+      <guid>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/shortcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thumbnail</title>
+      <link>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/thumbnail/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/thumbnail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/index/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

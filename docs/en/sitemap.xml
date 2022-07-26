@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/about/</loc>
+    <lastmod>2021-05-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://katherinecox.github.io/cmoor_website_template_hugo_gha/ar/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katherinecox.github.io/cmoor_website_template_hugo_gha/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/</loc>
+    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://katherinecox.github.io/cmoor_website_template_hugo_gha/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katherinecox.github.io/cmoor_website_template_hugo_gha/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/demo/</loc>
+    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/post/</loc>
+    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://katherinecox.github.io/cmoor_website_template_hugo_gha/ar/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katherinecox.github.io/cmoor_website_template_hugo_gha/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/shortcode/</loc>
+    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/</loc>
+    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://katherinecox.github.io/cmoor_website_template_hugo_gha/ar/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/post/figure-shortcode/</loc>
+    <lastmod>2021-03-13T21:47:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/categories/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://katherinecox.github.io/cmoor_website_template_hugo_gha/ar/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katherinecox.github.io/cmoor_website_template_hugo_gha/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/post/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/privacy/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/post/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/post/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/post/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/post/image-test/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/thumbnail/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/index/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://katherinecox.github.io/cmoor_website_template_hugo_gha/ar/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://katherinecox.github.io/cmoor_website_template_hugo_gha/tags/index/"
+                />
+  </url>
+  
+</urlset>
