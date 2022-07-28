@@ -1,6 +1,6 @@
 +++
 author = "Kyle Ortz"
-title = "Demo R Notebook post"
+title = "New Post"
 date = "2022-07-28"
 description = "A post announcing and linking to an R Notebook"
 tags = [
