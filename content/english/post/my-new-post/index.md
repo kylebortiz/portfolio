@@ -2,14 +2,14 @@
 author = "Kyle Ortz"
 title = "New Post"
 date = "2022-07-28"
-description = "A post announcing and linking to an R Notebook"
+description = "My Poster looking into MODY5 and early gastrulation"
 tags = [
     "R"
 ]
 +++
 
-Check out this [awesome R Notebook](6_23_22_mouse_gastrulation_part3.nb.html) I just made!
+Here's my poster that looks into the relationship between specific genes in Maturity of Onset Diabetes of the Young (Foxa2, Foxa3, and HNF1B) and early mouse gastrulation. [here](Copy of SU22 PosterPresentations.com-36x48-Template-Forrest)
 
-Here is a paragraph or two introducing the Notebook - explain what you were working on, why you're interested, and/or what the most exciting results are.
+Check out this [awesome R Notebook](6_23_22_mouse_gastrulation_part3.nb.html) showing the code I used to gather my poster's data.
 
-This demo Notebook is just illustrating what an R Notebook looks like and how to link to it.
+
